@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.body{
+    background-color: aliceblue;
+}
+
+.title {
+    text-align: center;
+    float: center;
+    padding-top:40px;
+    /* padding-left: 10px;
+    padding-right: 100px; */
+}
+
+.nav {
+    padding-top: 200px;
+    text-align: center;
+    float: center;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    width: 30%;
+}
+
+.logo {
+    width: 200px;
+}
+
+
+.chatCointainer .chats{
+    color: blue;
+}
+
+.chats .userChat{
+    padding-left: 6000px;
+    display: flex;
+    align-items: center;
+}
+
+.chats .userChatContent{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.userProfile{
+    width: 55px;
+    object-fit: cover;
+    border-radius: 2px;
+}
+.chatProfile{
+    width:100px;
+    object-fit: cover;
+    border-radius: 2px;
+}
+
+.output {
+    color: green;
+}
+
