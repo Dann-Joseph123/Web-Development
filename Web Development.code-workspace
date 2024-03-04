@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Web Development",
+			"path": "."
+		},
+		{
+			"name": "Odin-Project-of-Dann",
+			"path": "Odin-Project-of-Dann"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Development"
+	}
+}
